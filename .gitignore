@@ -1,0 +1,5 @@
+learning_adventure.db
+.buildozer/
+bin/
+__pycache__/
+*.pyc
