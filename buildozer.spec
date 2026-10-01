@@ -39,12 +39,11 @@ android.permissions = INTERNET
 
 # Presplash
 
-presplash.filename = %(source.dir)s/presplash.png
 
 
 # Icon
 
-icon.filename = %(source.dir)s/icon.png
+
 
 
 [buildozer]
